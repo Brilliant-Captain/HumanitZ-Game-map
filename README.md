@@ -2,7 +2,7 @@
 
 Original author (providing the initial version): EV0LV3
 
-
+![image](https://github.com/Brilliant-Captain/HumanitZ-Game-map/blob/main/2.png)
 
 Demo website（演示网站）:https://humanitz-map.bxs.cn
 
